@@ -1,0 +1,4 @@
+Use Github Repository, Settings -> Pages to publish the website.
+    https://github.com/SadSack963/day-41_web_development/settings/pages
+Select the master branch, / (root) folder, and Save, to create the website.
+    https://sadsack963.github.io/day-41_web_development/
